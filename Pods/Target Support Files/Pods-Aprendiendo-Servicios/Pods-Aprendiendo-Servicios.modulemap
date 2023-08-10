@@ -1,0 +1,6 @@
+framework module Pods_Aprendiendo_Servicios {
+  umbrella header "Pods-Aprendiendo-Servicios-umbrella.h"
+
+  export *
+  module * { export * }
+}
